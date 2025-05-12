@@ -1,4 +1,4 @@
-# For personal use only, author @shotoguazi
+#author @xi-xiaoran
 
 import os
 import time
